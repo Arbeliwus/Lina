@@ -7,6 +7,6 @@
 5) 模糊
 
 使用授課老師給予的檢視軟體確認檔案是否操作成功
-[](https://play-lh.googleusercontent.com/BAZ7h4kOZbAbH7dqkcPqd6dwXFBevYWu2xt2OJjyRK-5eqduXRB_WaCb1uBK4xlKelE=w2560-h1440-rw)
-[](https://play-lh.googleusercontent.com/BAZ7h4kOZbAbH7dqkcPqd6dwXFBevYWu2xt2OJjyRK-5eqduXRB_WaCb1uBK4xlKelE=w2560-h1440-rw)
+![](https://play-lh.googleusercontent.com/BAZ7h4kOZbAbH7dqkcPqd6dwXFBevYWu2xt2OJjyRK-5eqduXRB_WaCb1uBK4xlKelE=w2560-h1440-rw)
+![](https://play-lh.googleusercontent.com/BAZ7h4kOZbAbH7dqkcPqd6dwXFBevYWu2xt2OJjyRK-5eqduXRB_WaCb1uBK4xlKelE=w2560-h1440-rw)
 
