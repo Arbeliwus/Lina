@@ -7,8 +7,8 @@
 5) 模糊
 
 使用授課老師給予的檢視軟體確認檔案是否操作成功
-![]([https://play-lh.googleusercontent.com/BAZ7h4kOZbAbH7dqkcPqd6dwXFBevYWu2xt2OJjyRK-5eqduXRB_WaCb1uBK4xlKelE=w2560-h1440-rw](https://github.com/Arbeliwus/Lina/blob/main/Img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-27%20114724.png)https://github.com/Arbeliwus/Lina/blob/main/Img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-27%20114724.png)
+![]([github.com/Arbeliwus/Lina/blob/main/Img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-27%20114809.png](https://github.com/Arbeliwus/Lina/blob/main/Img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-27%20114724.png)https://github.com/Arbeliwus/Lina/blob/main/Img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-27%20114724.png)
 
 
-![]([https://play-lh.googleusercontent.com/BAZ7h4kOZbAbH7dqkcPqd6dwXFBevYWu2xt2OJjyRK-5eqduXRB_WaCb1uBK4xlKelE=w2560-h1440-rw](https://github.com/Arbeliwus/Lina/blob/main/Img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-27%20114809.png)https://github.com/Arbeliwus/Lina/blob/main/Img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-27%20114809.png)
+![](github.com/Arbeliwus/Lina/blob/main/Img/%E8%9E%A2%E5%B9%95%E6%93%B7%E5%8F%96%E7%95%AB%E9%9D%A2%202023-10-27%20114809.png)
 
