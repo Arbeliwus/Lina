@@ -8,9 +8,10 @@
 5) 模糊
 
 ## 圖片開啟工具
-![image.png](https://hackmd.io/_uploads/HyNv5ffma.png)
+![image](https://github.com/Arbeliwus/Lina/assets/75787992/398e9ff1-219c-42ec-ad63-64a3ccba86c5)
 
 ## 預覽
 
-![image.png](https://hackmd.io/_uploads/SJ6u5GGQT.png)
+![image](https://github.com/Arbeliwus/Lina/assets/75787992/b90a0fbb-ccf7-4c2d-b46a-e0a3175cb376)
+
 
